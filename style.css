@@ -1,0 +1,26 @@
+.pic {
+    width: 150px;
+  }
+  
+  a {
+    display: block;
+  }
+  
+  .container {
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  a:hover {
+    color: lightblue;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  body {
+    font-family: sen;
+  }
